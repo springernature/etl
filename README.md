@@ -1,7 +1,8 @@
 # ETL Code Refactoring Challenge
 
 <b>EXPECTATIONS</b>
-- Refactor/enhance an existing program that works on the sample inputs and generates output as shown in the Input-Output section. 
+- Download this code repository and import in Eclipse/IntelliJ/IDE.
+- Refactor/enhance this existing code so that it works on the sample input and generates output as shown in the Input-Output section. 
 - Use <b>JUnit</b> or any other testing framework or the main() program for testing.
 - Maturity of your solution will be judged on your <br>
 <b>object oriented programming (or functional programming),</b> <br>
