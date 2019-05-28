@@ -1,4 +1,4 @@
-# ETL Code Refactoring Challenge
+# ETL Code Refactoring Challenge (45 mins)
 
 <b>EXPECTATIONS</b>
 - Download this code repository and import in Eclipse/IntelliJ/IDE.
@@ -41,6 +41,6 @@ So that all contents of the file are in INITCAP style.
 <br><br>
 ## Future Stories (Optional)
 Future stories may include features like
-- Reading and writing into SQL tables or any other sources, 
+- Reading and writing into XML or JSON file.
 - Add multiple transformations to contents instead of 1.
 - Scaling-up the program to handle multiple files (example: all files in a directory).
