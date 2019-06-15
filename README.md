@@ -2,7 +2,9 @@
 
 <b>EXPECTATIONS</b>
 - Download this code repository and import in Eclipse/IntelliJ/IDE.
-- Refactor/enhance this existing code so that it works on the sample input and generates output as shown in the Input-Output section. 
+- Create a folder of your name in D:/HR location and make it as your workspace.
+- Athough, it is working code, you need to refactor/enhance this existing code so that it works on the sample input and generates output as shown in the Input-Output section.
+- Think on its design issues, and refactor accordingly.
 - Use <b>JUnit</b> or any other testing framework or the main() program for testing.
 - Maturity of your solution will be judged on your <br>
 <b>object oriented programming (or functional programming),</b> <br>
